@@ -2,7 +2,7 @@ import React from "react";
 import './Business.css';
 
 
-const Business = {
+const Business1 = {
     imageSrc: 'https://content.codecademy.com/programs/react/ravenous/pizza.jpg',
     name: 'MarginOtto Pizzeria',
     address: '1010 Paddington Way',
@@ -36,3 +36,6 @@ class Business extends React.Component{
   </div>
     }
 }
+
+
+export default Business;
